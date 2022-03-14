@@ -1,5 +1,1 @@
-import fuckit
-
-@fuckit
-with fuckit:
-    print(a)
+print("Hello, World!")
